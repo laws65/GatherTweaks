@@ -13,20 +13,20 @@ const int coinsOnDamageAddBuilder = 8;
 const int coinsOnAssistAddBuilder = 10;
 const int coinsOnKillAddBuilder = 15;
 
-const int coinsOnDeathLosePercent = 15;
+const int coinsOnDeathLosePercent = 0;
 
 const int coinsOnRestartAdd = 0;
 const bool keepCoinsOnRestart = false;
 
-const int coinsOnHitSiege = 2; //per heart of damage
-const int coinsOnKillSiege = 20;
+const int coinsOnHitSiege = 0; //per heart of damage
+const int coinsOnKillSiege = 0;
 
 const int coinsOnCapFlag = 100;
 
 const int coinsOnBuildStoneBlock = 3;
 const int coinsOnBuildStoneDoor = 5;
 const int coinsOnBuildWood = 1;
-const int coinsOnBuildWorkshop = 10;
+const int coinsOnBuildWorkshop = 4;
 
 const int warmupFactor = 3;
 
